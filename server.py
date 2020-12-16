@@ -1,11 +1,10 @@
 
-import dlib, cv2
+import  cv2
 import socket , zmq
 import numpy as np
 
 from model import *
 # We have imoprted cv2 for opening cam and showing images, zmq for communication to server, np for help in transformation
-# and dlib for predictions of face 
 
 
 
