@@ -6,7 +6,7 @@ The project is divided into 2 parts face recogination and client and server side
   * For data transfer between client and server separate <a href="https://github.com/sauravakolia/Face_recognition_PyZMQ/blob/main/client.py">client.py</a> and <a href="https://github.com/sauravakolia/Face_recognition_PyZMQ/blob/main/server.py">server.py</a> is used 
 
 # Requirements
-* Opencv
+* OpenCV
 * PyZMQ
 
 # Workflow of Program
@@ -17,14 +17,19 @@ The project is divided into 2 parts face recogination and client and server side
   
 # Result 
 
+
 <div class="Row">
   <div class="Column">
-    <label>Input image</label>
-    <img src="https://github.com/sauravakolia/Face_recognition_PyZMQ/blob/main/test_data/2.jpg"></img>
+   <div class="img-responsive">
+     <label>Input image</label>
+     <img src="https://github.com/sauravakolia/Face_recognition_PyZMQ/blob/main/test_data/2.jpg"></img>
+ </div>
   </div>
   
 <div class="Column">
+  <div class="img-responsive">
     <label>Detected image</label>
     <img src="https://github.com/sauravakolia/Face_recognition_PyZMQ/blob/main/detected.JPG"></img>
+ </div>
   </div>
 </div>
