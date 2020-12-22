@@ -15,7 +15,7 @@ The project is divided into 2 parts face recogination and client and server side
   * Server side perform the necessary recognition of person in the image.
   * Then the detected image is senf to client side and client side show the detected image
 
-<!-
+<!--
 # Result 
 
 
@@ -35,4 +35,4 @@ The project is divided into 2 parts face recogination and client and server side
   </div>
 </div>
 
-->
+-->
